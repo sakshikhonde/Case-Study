@@ -1,24 +1,17 @@
-**Case Study**: Agile Development Analysis for Tiny Corp
-
-**Company**: Hypothetical Case Study Role: Business Analyst (Practice Project) Duration: January 2023 - March 2023
+**Project**: TinyCorp PayReward
 
 **Objective**: Adapt Tiny Corp’s payment solution following an unexpected roadmap shift.
 
 **Approach**:
 
-Utilized BACCM framework for requirement analysis.
+Acted as business analyst in a simulated Agile project to design a dual portal website for customers and billing clients with loyalty rewards, and prioritizing
+requirements.
+Authored 14 user stories with acceptance criteria and detailed flowcharts using JIRA and draw.io tool
+Identified new capabilities for enhanced user experience for both clients.
+Improved satisfaction for billing clients and enhanced product value for customers, contributing to a competitive market edge.
 
-Conducted stakeholder discussions and maintained detailed documentation.
 
-Developed user stories: Self-Service Payment Changes and Loyalty Program.
 
-Created flow charts to visualize process workflows and user interactions.
-
-**Sprints**:
-
-Sprint 1-2: Developed Self-Service features.
-
-Sprint 3-4: Completed Loyalty Program.
 
 Sprint 5: Identified new features, addressed critical bugs.
 
