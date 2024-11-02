@@ -10,9 +10,4 @@ Authored 14 user stories with acceptance criteria and detailed flowcharts using 
 Identified new capabilities for enhanced user experience for both clients.
 Improved satisfaction for billing clients and enhanced product value for customers, contributing to a competitive market edge.
 
-
-
-
-Sprint 5: Identified new features, addressed critical bugs.
-
 **Results**: Successfully launched Self-Service and Loyalty Program features, enhancing user experience and boosting customer retention.
